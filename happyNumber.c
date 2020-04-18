@@ -18,3 +18,5 @@ bool isHappy(int n) {
     }
     return slow == 1;   
 }
+
+// Algorithm: Cycle Finding
